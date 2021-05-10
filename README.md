@@ -1,5 +1,7 @@
 Hey, I'm Afanasy Barbarov, an independent contractor. I work closely with clients to define ideas and deliver products.
 
+[Resume](https://github.com/abarbarov/abarbarov/blob/main/Resume_A_Barbarov.pdf)
+
 ### Feel free to connnect with me on LinkedIn
 
 <p align="left">
