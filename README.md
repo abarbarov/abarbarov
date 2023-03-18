@@ -1,8 +1,9 @@
 Hey, I'm Afanasy Barbarov, an independent contractor. I work closely with clients to define ideas and deliver products.
 
-[CV](https://github.com/abarbarov/abarbarov/blob/main/Resume_A_Barbarov.pdf)
+[CV (1-page)](https://github.com/abarbarov/abarbarov/blob/main/Resume_1_page_A_Barbarov.pdf)
+[CV FULL](https://github.com/abarbarov/abarbarov/blob/main/Resume_A_Barbarov.pdf)
 
-### Here I'm posting randomly thoughts (mostly about AWS)
+### Here I'm posting my notes about clouds and software engineering (but mostly about AWS)
 
 <p align="left">
 <a href="https://barbarov.com/">Blog posts</a>
